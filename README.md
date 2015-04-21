@@ -36,4 +36,4 @@ Los roles están repartidos de la siguiente forma:
   u3: ROL PAG_3
   u4: ROL PAG1 y ROL PAG3
   
-La aplicación no necesita importar ninguna librería externa, javax.servelt se coge del tomcat donde se contiene.  
+La aplicación no necesita importar ninguna librería externa, javax.servelt se coge del tomcat donde se contiene. La versión utilizada de la librería es javax.servlet-3.0.jar para soportar anotaciones. 
